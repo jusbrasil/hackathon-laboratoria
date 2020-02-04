@@ -4,70 +4,64 @@
       "id": 1,
       "name": "Smart TV 4K Sony LED 55\" com Pesquisa de Voz, Google Assistente, Chromecast e Wi-Fi - XBR-55X805G",
       "price": 3399.18,
-      "thumbnail": ""
+      "thumbnail": "https://az.jusbr.com/hackathon-laboratoria/products/1.jpg"
     },
-
     {
       "id": 2,
       "name": "Cafeteira Nespresso Essenza Mini Preto para Café Espresso - C30-BR",
       "price": 269.58,
-      "thumbnail": ""
+      "thumbnail": "https://az.jusbr.com/hackathon-laboratoria/products/2.jpg"
     },
     {
       "id": 3,
       "name": "Refrigerador de 02 Portas Brastemp Frost Free com 443 Litros com Freezer Invertido Cor Inox - BRE57AK",
       "price": 3149,
-      "thumbnail": ""
+      "thumbnail": "https://az.jusbr.com/hackathon-laboratoria/products/3.jpg"
     },
     {
       "id": 4,
       "name": "Caixa de Som Bluetooth JBL Flip 5 com 20W para Android, iOS e Windows Phone Verde",
       "price": 486.89,
-      "thumbnail": ""
+      "thumbnail": "https://az.jusbr.com/hackathon-laboratoria/products/4.jpg"
     },
     {
       "id": 5,
       "name": "Zenfone Max Pro M2 Titanium Asus, com Tela de 6,3”, 4G, 128 GB e Câmera de 12+5 MP – ZB631KL-4J092BR",
       "price": 1399,
-      "thumbnail": ""
+      "thumbnail": "https://az.jusbr.com/hackathon-laboratoria/products/5.jpg"
     }
   ],
-
   "products": [
     {
       "id": 1,
       "name": "Smart TV 4K Sony LED 55\" com Pesquisa de Voz, Google Assistente, Chromecast e Wi-Fi - XBR-55X805G",
       "price": 3399.18,
       "description": "Conheça a TV mais inteligente da Sony! A XBR X805G traz a plataforma AndroidTV, um sistema operacional simples e intuitivo, que permite realizar buscas de conteúdos de uma forma muito mais rápida. Equipada com o Google Assistente, essa TV realmente conversa com você. Ela realiza pesquisas na internet, pode ser utilizada para baixar aplicativos; como jogos, filmes e músicas e ainda deixa sua casa muito mais inteligente com a possibilidade de controlar o seu sistema de automação ou outros dispositivos compatíveis com Google Home. A exclusiva tela TRILUMINOS da Sony enriquece a sua experiência de assistir TV, com uma grande variedade de tonalidades, reforça seletivamente a imagem, em vez de simplesmente saturar as cores. Compatível com o mais novo formato de vídeo 4K HDR, você poderá aproveitar imagens com cores, brilho e contraste nunca vistos antes.",
-      "image": "",
-      "stock_amount": 5,
+      "image": "https://az.jusbr.com/hackathon-laboratoria/products/1.jpg",
+      "stock_amount": 5
     },
-
     {
       "id": 2,
       "name": "Cafeteira Nespresso Essenza Mini Preto para Café Espresso - C30-BR",
       "price": 269.58,
       "description": "Ao concentrar a expertise em Café em um projeto totalmente novo, a Nespresso lança sua máquina mais compacta - sem que nada fique de fora. A nova Essenza Mini combina facilidade de uso, beleza minimalista e qualidade incomparável para criar o Café Perfeito xícara após xícara. Escolha sua Essenza Mini e inicie sua jornada em um universo completo de aromas e sabores com os Cafés Nespresso.",
-      "image": "",
+      "image": "https://az.jusbr.com/hackathon-laboratoria/products/2.jpg",
       "stock_amount": 2
     },
-
     {
       "id": 3,
       "name": "Refrigerador de 02 Portas Brastemp Frost Free com 443 Litros com Freezer Invertido Cor Inox - BRE57AK",
       "price": 3149,
       "description": "A Geladeira Brastemp Inverse Frost Free BRE57 443 litros tem refrigerador em cima e freezer embaixo, deixando os alimentos mais utilizados sempre à mão. Com o Turbo Ice, faça gelo mais rápido sempre que precisar. O modelo conta ainda com Twist Ice Advanced e Espaço Adapt",
-      "image": "",
+      "image": "https://az.jusbr.com/hackathon-laboratoria/products/2.jpg",
       "stock_amount": 10
     },
-
-
     {
       "id": 4,
       "name": "Caixa de Som Bluetooth JBL Flip 5 com 20W para Android, iOS e Windows Phone Verde",
       "price": 486.89,
       "description": "Não sofra com pequenos detalhes como recarregar a bateria. Com a Flip 5, você tem mais de 12 horas de pura diversão. Deixe sua música tocando por mais tempo e mais alto com o som inconfundível da JBL.",
-      "image": "",
+      "image": "https://az.jusbr.com/hackathon-laboratoria/products/4.jpg",
       "stock_amount": 1
     },
     {
@@ -75,7 +69,7 @@
       "name": "Zenfone Max Pro M2 Titanium Asus, com Tela de 6,3”, 4G, 128 GB e Câmera de 12+5 MP – ZB631KL-4J092BR",
       "price": 1399,
       "description": "O novíssimo ZenFone Max Pro (M2) ZB631KL aproveita o desempenho épico da plataforma móvel Snapdragon™ 660 para lhe dar o poder de conseguir tudo o que você quiser fazer. Sua poderosa bateria de 5000mAh é perfeita para jogar sem interrupções ou assistir filmes, e o telefone está impecavelmente protegido por Corning® Gorilla® Glass 6 na tela de 6,26 polegadas Full HD+.",
-      "image": "",
+      "image": "https://az.jusbr.com/hackathon-laboratoria/products/5.jpg",
       "stock_amount": 3
     }
   ]
